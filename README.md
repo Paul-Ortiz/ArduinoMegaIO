@@ -1,4 +1,4 @@
 # ArduinoMegaIO
 
-![](Schematics.png)
+![](Schematics.PNG)
 
