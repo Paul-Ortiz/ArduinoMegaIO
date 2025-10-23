@@ -1,2 +1,4 @@
 # ArduinoMegaIO
 
+![](Schematics.png)
+
